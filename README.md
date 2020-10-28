@@ -2,7 +2,7 @@
 
 Weather API is a REST API service that allows us to know the weather of more than 200,000 cities around the world thanks to its integration with the OpenWeatherMap API, what are you waiting to test it?
 
-## Tabla de contenido
+## Table of Contents
 
 Table of Contents
   * [Quick Install](#quick-install)
